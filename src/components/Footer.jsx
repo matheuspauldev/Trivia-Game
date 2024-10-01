@@ -8,7 +8,7 @@ function Footer() {
         <i className="ri-github-fill" />
         {' '}
       </a>
-      <a href="https://www.linkedin.com/in/matheuspaul/" target="_blank" rel="noopener noreferrer">
+      <a href="https://www.linkedin.com/in/matheus-paul/" target="_blank" rel="noopener noreferrer">
         {' '}
         <i className="ri-linkedin-box-fill" />
       </a>
